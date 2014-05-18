@@ -32,4 +32,6 @@ requires:
   perl: 5.006
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.10
+version: 1.11_01
+
+

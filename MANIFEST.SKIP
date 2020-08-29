@@ -1,0 +1,5 @@
+.hg
+_build
+MANIFEST.SKIP
+^MYMETA\.yml$
+^MYMETA\.json$

@@ -1,5 +1,8 @@
-.hg
-_build
-MANIFEST.SKIP
+^\.hg
+^_build
+.*\.bak
+^Build$
+^Makefile$
+^MANIFEST\.SKIP$
 ^MYMETA\.yml$
 ^MYMETA\.json$
